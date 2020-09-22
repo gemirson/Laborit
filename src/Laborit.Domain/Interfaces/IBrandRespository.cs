@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laborit.Domain.Interfaces
 {
-    class IBrandRespository
+    public interface IBrandRespository
     {
     }
 }

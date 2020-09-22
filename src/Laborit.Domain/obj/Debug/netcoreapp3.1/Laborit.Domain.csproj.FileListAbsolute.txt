@@ -1,0 +1,5 @@
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Domain\bin\Debug\netcoreapp3.1\Laborit.Domain.deps.json
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Domain\bin\Debug\netcoreapp3.1\Laborit.Domain.dll
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Domain\obj\Debug\netcoreapp3.1\Laborit.Domain.csprojAssemblyReference.cache
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Domain\obj\Debug\netcoreapp3.1\Laborit.Domain.AssemblyInfoInputs.cache
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Domain\obj\Debug\netcoreapp3.1\Laborit.Domain.AssemblyInfo.cs
