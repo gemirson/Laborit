@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kKlqN/GGKKw1jLPsY3eVI3/ZBpk+SYxP9xfmt/SYX6ifue8fIIWusVYXHHh6CDPXi0RwIyGBvoMnvDmxwIRukw==",
+  "dgSpecHash": "BM/J6z2cr3xqstQAIvNuLWL2twk6HNcqnx2jWs7aDZw5g7yurx8/vfEktCsTgFVnVUjm5JayzAqL8b9Vk2j/iA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Domain\\Laborit.Domain.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\gemir\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
     "C:\\Users\\gemir\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
     "C:\\Users\\gemir\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\gemir\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\gemir\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\gemir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
