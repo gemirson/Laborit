@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Infra\\Laborit.Infra.csproj": {}
+    "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Infra\\Laborit.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Infra\\Laborit.Infra.csproj": {
+    "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Infra\\Laborit.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Infra\\Laborit.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Infra\\Laborit.Infra.csproj",
         "projectName": "Laborit.Infra",
-        "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Infra\\Laborit.Infra.csproj",
+        "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Infra\\Laborit.Infra.csproj",
         "packagesPath": "C:\\Users\\gemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Infra\\obj\\",
+        "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

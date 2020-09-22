@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Domain\\Laborit.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Domain\\Laborit.Domain.csproj",
       "projectName": "Laborit.Domain",
-      "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Domain\\Laborit.Domain.csproj",
+      "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Domain\\Laborit.Domain.csproj",
       "packagesPath": "C:\\Users\\gemir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Domain\\obj\\",
+      "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

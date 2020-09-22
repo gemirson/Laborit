@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Service\\Laborit.Service.csproj": {}
+    "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Service\\Laborit.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Service\\Laborit.Service.csproj": {
+    "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Service\\Laborit.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Service\\Laborit.Service.csproj",
+        "projectUniqueName": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Service\\Laborit.Service.csproj",
         "projectName": "Laborit.Service",
-        "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Service\\Laborit.Service.csproj",
+        "projectPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Service\\Laborit.Service.csproj",
         "packagesPath": "C:\\Users\\gemir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Service\\obj\\",
+        "outputPath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

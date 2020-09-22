@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UM6Ilo+oPzf8hWbVUcOEZOzmQOhGUWwlUXTntnMO38o5h4yKoRCTfubuNXEpggXLRY8THCGte0P3fZNwIAxSww==",
+  "dgSpecHash": "GCpat7jw5w3g4SCQXPLUfKEnu+tIXMEI/6aJm8k4hbx24phnhZA8nJafoQlWK1mRWzVE81wsL7WYekcdfPjqfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gemir\\source\\repos\\Laborit\\Laborit.Domain\\Laborit.Domain.csproj",
+  "projectFilePath": "C:\\Users\\gemir\\source\\repos\\Laborit\\src\\Laborit.Domain\\Laborit.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
