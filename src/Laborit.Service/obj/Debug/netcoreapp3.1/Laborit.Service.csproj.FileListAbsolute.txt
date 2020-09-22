@@ -1,0 +1,9 @@
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\bin\Debug\netcoreapp3.1\Laborit.Service.deps.json
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\bin\Debug\netcoreapp3.1\Laborit.Service.dll
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\bin\Debug\netcoreapp3.1\Laborit.Service.pdb
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.csprojAssemblyReference.cache
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.AssemblyInfoInputs.cache
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.AssemblyInfo.cs
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.csproj.CoreCompileInputs.cache
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.dll
+C:\Users\gemir\source\repos\Laborit\src\Laborit.Service\obj\Debug\netcoreapp3.1\Laborit.Service.pdb
