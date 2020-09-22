@@ -8,13 +8,13 @@ namespace Laborit.Domain.Models
     {
 
         public string Name { get; private set; }
-        public int    BrandId { get; private set; }
+        public Guid    BrandId { get; private set; }
 
 
 
-        public Model(int IdModel, string name, int IdBrand)
+        public Model(string name, Guid IdBrand)
         {
-            Id = IdModel;
+            Id = Guid.NewGuid();
             Name = name;
             BrandId = IdBrand;
            

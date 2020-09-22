@@ -8,10 +8,10 @@ namespace Laborit.Domain.Brands
     {
         public string Name { get; private set; }
 
-        public Brand(int Id, string name)
+        public Brand( string name)
         {
-            this.Id = Id;
-            this.Name = name;
+            Id = Guid.NewGuid();
+            Name = name;
             
         }
     }
