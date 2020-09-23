@@ -4,7 +4,6 @@ using Laborit.Domain.Core.Validator;
 using Laborit.Infra.Repository.Interfaces;
 using Laborit.Service.Commands;
 using MediatR;
-using Microsoft.AspNetCore.Http.Connections;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;

@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Laborit.Domain\Laborit.Domain.csproj" />
+    <ProjectReference Include="..\Laborit.Infra\Laborit.Infra.csproj" />
   </ItemGroup>
 
 </Project>

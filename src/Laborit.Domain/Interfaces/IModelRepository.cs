@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Laborit.Domain.Interfaces
 {
-    public interface IModelRespository
+    public interface IModelRepository
     {
     }
 }
