@@ -4,6 +4,5 @@ C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\bin\Debug\netcoreapp3.1\La
 C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.csprojAssemblyReference.cache
 C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.AssemblyInfoInputs.cache
 C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.AssemblyInfo.cs
-C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.csproj.CoreCompileInputs.cache
 C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.dll
 C:\Users\gemir\source\repos\Laborit\src\Laborit.Infra\obj\Debug\netcoreapp3.1\Laborit.Infra.pdb

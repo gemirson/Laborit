@@ -1,7 +1,11 @@
-﻿using Laborit.Domain.Core.Responses;
+﻿using Laborit.Domain.Brands;
+using Laborit.Domain.Core.Responses;
 using Laborit.Domain.Core.Validator;
+using Laborit.Infra.Repository.Interfaces;
 using Laborit.Service.Commands;
 using MediatR;
+using Microsoft.AspNetCore.Http.Connections;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -10,10 +14,26 @@ namespace Laborit.Service.CommandHandlers
     public class CreateBrandHandler : ValidatorResponse, IRequestHandler<BrandCommand, ResponseResult>
     {
 
+        private readonly IUnitOfWork _unitOfWork;
 
-        public Task<ResponseResult> Handle(BrandCommand request, CancellationToken cancellationToken)
+        public CreateBrandHandler(IUnitOfWork unitOfWork)
         {
-            throw new System.NotImplementedException();
+            _unitOfWork = unitOfWork;
+        }
+
+        public async Task<ResponseResult> Handle(BrandCommand request, CancellationToken cancellationToken)
+        {
+            request.Validate();
+
+            if (request.Notifications.Any())
+            {
+                _response.AddNotifications(request.Notifications);
+                return _response;
+            }
+      
+            await _unitOfWork.Brands.AddAsync(new Brand(request.Name));
+            await _unitOfWork.SaveAsync();
+            return _response;
         }
     }
 }
