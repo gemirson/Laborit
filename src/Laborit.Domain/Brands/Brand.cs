@@ -14,5 +14,10 @@ namespace Laborit.Domain.Brands
             Name = name;
             
         }
+
+        public void UpdateBrand(string name) 
+        {
+            Name = name;
+        }
     }
 }

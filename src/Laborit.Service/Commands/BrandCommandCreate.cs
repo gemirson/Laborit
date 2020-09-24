@@ -4,11 +4,11 @@ using System;
 
 namespace Laborit.Service.Commands
 {
-    public class BrandCommand: Command
+    public class BrandCommandCreate: Command
     { 
         public string Name { get; private set; }
 
-        public BrandCommand(string name)
+        public BrandCommandCreate(string name)
         {
             Name = name;
         }
@@ -21,6 +21,8 @@ namespace Laborit.Service.Commands
 
             
         }
+
+
        
 
     }
